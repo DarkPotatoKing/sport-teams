@@ -11,7 +11,8 @@ This repo generates two CSVs and computes the **Top teams by wins (2023)**, **in
 - `top10.sql` – SQL query that returns the **Top teams with ties** using `DENSE_RANK()`.
 
 ## How to Run (Google Colab)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/kyle/assignment-3/blob/main/generate_data.ipynb](https://colab.research.google.com/drive/1bb4H1xc233upP9L3iIv6YwVXTRPWF1bI?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bb4H1xc233upP9L3iIv6YwVXTRPWF1bI?usp=sharing)
+
 1. Open `generate_data.ipynb` in Google Colab.
 2. Run all cells. The notebook will:
    - Install `faker`
